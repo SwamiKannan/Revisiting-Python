@@ -161,7 +161,6 @@ def save_pw():
     except FileNotFoundError:  # No password manager file exists (pw_mgr.csv) file exists to update the details to.
         print('New details file created')
         data = [entry]
-    # print('Data struct to be encoded', data)
 
     # Re-encrypt and close file
     encrypt_text(data)
