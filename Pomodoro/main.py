@@ -41,7 +41,6 @@ def start():
 def check_countdown():
     long_break_series = ['work', 'short_break', 'work', 'short_break', 'work', 'short_break', 'work']
     global ticks_txt
-    print(series)
     tick_count = series.count('work')
     ticks_txt = '✔' * tick_count
     ticks['text'] = ticks_txt
@@ -74,7 +73,6 @@ def countdown_shortbreak():
 
 def countdown_longbreak():
     # ticks['text'] = ''
-    print('Doing longbreak')
     app_title['text'] = 'Taking a longer break ..... '
     app_title['fg'] = LONG_BREAK
     countdown(LONG_BREAK_MIN * 60)
