@@ -1,6 +1,8 @@
 from turtle import Turtle, Screen
 import random, time
-
+from tkinter import *
+from tkinter import messagebox
+final_text=''
 screen = Screen()
 scr_width=800
 scr_height=600
@@ -9,14 +11,14 @@ turtles = []
 color = ['red', 'blue', 'green', 'yellow', 'orange', 'black', 'purple']
 interval = 30
 y_end = -70
-color_text = ' '.join(color)
+color_text = ', '.join([col.capitalize() for col in color])
 
 correct_color = False
 while not correct_color:
     bet = screen.textinput('Welcome to Turtle Races ! ', "Which Turtle would you like to bet on?: "+color_text)
-    if bet not in color:
+    if bet.lower() not in color:
         bet = screen.textinput('Welcome to Turtle Races ! ',
-                               "Incorrect choice ! Which Turtle would you like to bet on?", color_text)
+                               "Incorrect choice ! Which Turtle would you like to bet on?: "+color_text)
     else:
         correct_color=True
         break
@@ -32,7 +34,7 @@ if correct_color:
     race_on = True
 else:
     race_on=False
-print(race_on)
+#print(race_on)
 for i in reversed(range(4)):
     col=turt.color()[0]
     turt.write(str(i+1), font=('Arial, 48'))
@@ -47,11 +49,23 @@ while race_on:
         if turt.xcor() > (scr_width/2)-10: #turtle size is 20 so 10 is half that (center of mass)
             race_on = False
             turt_winner = turt.color()
-            print(f'Winner is the {turt.color()[0]} turtle')
+            result_text=f'The winner is the {turt.color()[0]} turtle'
 
-print(f'You bet on the {bet} turtle')
-print(f'The winner was the {turt_winner[0]} turtle')
+final_text+=f'\n\nYou bet on the {bet} turtle'
+final_text+=f'\n\nThe winner was the {turt_winner[0].capitalize()} turtle'
 if turt_winner[0] == bet:
-    print('You won the bet !')
+    title_text='You won!'
+    final_text+='\n\nYou won the bet !'
 else:
-    print(f'You lost the bet :(')
+    title_text='You lost!'
+    final_text+='\n\nYou lost the bet :('
+
+
+#from tkinter import * 
+from tkinter import messagebox
+  
+# root = Tk()
+#messagebox.showinfo('Final Results of the Race', result_text) # Results
+messagebox.showinfo(result_text, final_text) # The alert.
+  
+#root.mainloop() 
