@@ -5,7 +5,7 @@
   <sub>Image credit: <a href="http://www.issabove.com/blog/2015/9/29/maked-eye-sighting-of-the-iss-and-the-japanese-htv-supply-vehicle"> ISS above </a></sub>
   </p>
   
-  Tracking the ISS across the sky and across the globe:
+  Tracking the ISS across the sky and across the globe. This is a project to use APIs to work with location based APIs and build more customizable interfaces using CustomTkInter
   <ul>
   <li>GUI design using <a href="https://github.com/TomSchimansky/CustomTkinter">CustomTkInter</a> </li>
   <li>Using APIs from <a href="http://open-notify.org/Open-Notify-API/ISS-Location-Now/">open-notify.org</a> to extract location of the International Space Station </li>
