@@ -14,7 +14,6 @@ AREA_API = "https://geocode.maps.co/reverse?lat=latitude&lon=longitude"
 
 def get_latlong():
     res = requests.get(url=ISS_API)
-    print(res)
     results = res.json()
     lat = results['iss_position']['latitude']
     long = results['iss_position']['longitude']
