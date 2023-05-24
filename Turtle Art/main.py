@@ -2,7 +2,7 @@ import turtle
 from turtle import Screen
 import random
 
-screen = Screen()
+
 def create_turt():
     tim1 = turtle.Turtle()
     # sc = Screen()
@@ -72,6 +72,7 @@ elif type_of_art == 'damien_hirst':
     size = input('What size dots would you like?')
     screen=damien_hirst(50, int(size))
 else:
+    screen = Screen()
     print('Incorrect option')
 
 screen.exitonclick()
