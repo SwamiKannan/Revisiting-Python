@@ -19,6 +19,8 @@
   python main.py
   ```
 
+## Screenshots
+<a href="https://github.com/SwamiKannan/Revisiting-Python/tree/main/ISS%20Sighting/screenshots" >Screenshots here ! </a>
  
 <h2> Image credits:</h2>
 ISS image in the app's background image: <a href="https://www.vhv.rs/viewpic/iixRJRo_iss-silhouette-international-space-station-outline-hd-png/"> VHV.RS </a><br>
