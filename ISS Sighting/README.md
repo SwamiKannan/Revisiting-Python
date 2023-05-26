@@ -13,6 +13,13 @@
   <li>Input dialog box to enter (latitude, longitude) of user's location</li>
   <li>Calculate the over-the-surface distance between ISS and user</li>
  </ul>
+ 
+   ## How to run the app:
+  ```
+  python main.py
+  ```
+
+ 
 <h2> Image credits:</h2>
 ISS image in the app's background image: <a href="https://www.vhv.rs/viewpic/iixRJRo_iss-silhouette-international-space-station-outline-hd-png/"> VHV.RS </a><br>
 Earth icon: <a href="https://www.flaticon.com/free-icons/world" title="world icons">World icons created by Freepik - Flaticon</a><br>
