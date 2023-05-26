@@ -13,3 +13,9 @@ Imagine a robotic turtle starting at (0, 0) in the x-y plane. After an import tu
 By combining together these and similar commands, intricate shapes and pictures can easily be drawn.
 
 Turtle allowed me to mockup some interesting interfaces / screens for the Snake game and for this Etch a Sketch app
+
+  ## How to run the app:
+  ```
+  python main.py
+  ```
+
