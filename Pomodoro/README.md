@@ -10,5 +10,9 @@
    ```
    python main.py
    ```
-<br><br>
+   
+## Screenshots:
+
+<a href="https://github.com/SwamiKannan/Revisiting-Python/tree/main/Pomodoro/screenshots"> Screenshots of the app here </a>
+
 <sub>Image credit for image of tomato in the app <a href="http://pic-aboo.com/en/material/vegetable-tomato-001/">Pic-aboo</a></sub>
