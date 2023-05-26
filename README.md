@@ -3,7 +3,7 @@
 <img src = 'https://github.com/SwamiKannan/Revisiting_Python/blob/main/cover.png' width="240">
 </p><br>
 
-I am using this Github repo to build a few Python skills especially in GUI interfaces, non-ML projects, web-based API and maybe, even build a few Python games. I intend to build atleast one new app every 2-3 days. Hopefully, I stay consistent !
+I am using this Github repo to build a few Python skills especially in GUI interfaces, non-ML projects, public APIs and maybe, even build a few Python games. I intend to build atleast one new app every 2-3 days. Hopefully, I stay consistent !
 
 ## Projects (so far)
 <ol>
