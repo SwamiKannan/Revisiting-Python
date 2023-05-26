@@ -4,3 +4,8 @@
   </p>
   
   A simple coffe machine app that disperses coffee / change or allows you to check the amount of coffee, milk and sugar :)
+  
+  ## How to run the app:
+  ```
+  python main.py
+  ```
