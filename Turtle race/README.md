@@ -21,3 +21,6 @@ Bet on a turtle and see if your chosen turtle wins the race !
 ```
 python main.py
 ```
+
+## Screenshots:
+<a href="https://github.com/SwamiKannan/Revisiting-Python/tree/main/Turtle%20race/screenshots"> Screenshots of the app here </a>
