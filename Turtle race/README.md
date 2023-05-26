@@ -16,3 +16,8 @@ Imagine a robotic turtle starting at (0, 0) in the x-y plane. After an import tu
 
 ## Game:
 Bet on a turtle and see if your chosen turtle wins the race !
+
+## How to run the app:
+```
+python main.py
+```
