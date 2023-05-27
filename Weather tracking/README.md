@@ -1,6 +1,6 @@
 # Tracking the weather in your city (update in progress)
 <p align='center'>
-  <img src = "https://github.com/SwamiKannan/Revisiting-Python/blob/main/Weather_tracking/cover.png" width=30%><br>
+  <img src = "https://github.com/SwamiKannan/Revisiting-Python/blob/main/Weather tracking/cover.png" width=30%><br>
   <sub><a href="https://www.flaticon.com/free-icons/weather" title="weather icons">Weather icons created by Freepik - Flaticon</a></sub>
   </p>
 
