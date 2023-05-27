@@ -18,7 +18,8 @@ This is an exercise to understand the SMPP protocol using Twilio. The project ta
   <ul>
     <li> Create a <a href="https://www.twilio.com/en-us">Twilio account </a> (free).</li>
     <li> Grab the Twilio SID and save it in the environment as the variable "twilio_SID". This is described <a href="https://www.twilio.com/blog/environment-variables-python">here</a></li>
-    <li> Grab the Twilio auth token and save it in the environment as the variable "twilio_SID". This is described <a href="https://www.twilio.com/blog/environment-variables-python">here</a><br></li>
+    <li> Grab the Twilio auth token and save it in the environment as the variable "twilio_SID". This is described <a href="https://www.twilio.com/blog/environment-variables-python">here</a></li>
+    <li> Make sure the destination number to where the SMS is to be sent is registered in <b>Console -> Phone Numbers -> Verified Caller IDs </b><br></li>
   </ul>
   <br>
   <li><b>OpenWeather</b> </li>
