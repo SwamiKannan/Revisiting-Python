@@ -10,8 +10,9 @@ This is an exercise to understand the SMPP protocol using Twilio. The project ta
   <li> Current weather </li>
   <li> Custom text based on whether the temperature is above or below 30℃ </li>
   <li> Motivational quote of the day </li>
+  </ul>
 
-### Key instructions:
+## Key instructions:
 <ol>
   <li> <b>Twilio</b> </li>
   <ul>
