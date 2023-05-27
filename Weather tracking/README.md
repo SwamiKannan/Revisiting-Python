@@ -35,4 +35,13 @@ This is an exercise to understand the SMPP protocol using Twilio. The project ta
   
     python main.py
 
+## Screenshots
+### Output from PyCharm IDE window
+<p align='center'>
+  <img src="https://github.com/SwamiKannan/Revisiting-Python/blob/main/Weather%20tracking/screenshots/PC.png">
+ </p>
+ 
+### Output from Android message window
+<p align='center'>
+  <img src="https://github.com/SwamiKannan/Revisiting-Python/blob/main/Weather%20tracking/screenshots/mobile.jpg" width=40%>
   
