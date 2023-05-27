@@ -4,7 +4,12 @@
   <sub><a href="https://www.flaticon.com/free-icons/weather" title="weather icons">Weather icons created by Freepik - Flaticon</a></sub>
   </p>
 
-This is an exercise to understand the SMPP protocol using Twilio. 
+This is an exercise to understand the SMPP protocol using Twilio. The project takes in a <city, country> name and sends you an SMS greeting consisting of the following:
+<ul>
+  <li> The temperature in your city in ℃ </li>
+  <li> Current weather </li>
+  <li> Custom text based on whether the temperature is above or below 30℃ </li>
+  <li> Motivational quote of the day </li>
 
 ### Key instructions:
 <ol>
