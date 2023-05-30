@@ -1,0 +1,15 @@
+{'source': 
+	{'id': None, 
+	'name': 'MarketWatch'}, 
+	'author': 'Robert Schroeder', 
+	'title': ': Ron DeSantis will launch Presidential bid during Twitter chat with Elon Musk', 
+	'description': 'Florida Gov. Ron DeSantis will announce his presidential bid during a discussion with Twitter CEO Elon Musk, according to a report published Tuesday.', 
+	'url': 'https://www.marketwatch.com/story/ron-desantis-will-launch-presidential-bid-during-twitter-chat-with-elon-musk-757cf530', 
+	'urlToImage': 'https://images.mktw.net/im-787282/social', 
+	'publishedAt': '2023-05-23T18:40:00Z', 
+	'content': 'Florida Gov. Ron DeSantis will announce his presidential bid during a discussion with Twitter CEO Elon Musk, according to a report published Tuesday. \r\nNBC News reported that Musk and DeSantis, a Rep… [+659 chars]'
+	
+	
+	Tesla(TSLA 1.84%) and Rivian(RIVN -0.52%) have made big strides in their goals to capture a greater market share of electric vehicle sales. Tesla is admittedly further along that path. Fool.com contr… [+196 chars]
+1
+}
