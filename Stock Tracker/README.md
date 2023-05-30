@@ -1,4 +1,4 @@
-# Stock Tracker <br>
+# Stock Tracker - WIP <br>
 <p align='center'>
   <img src='https://github.com/SwamiKannan/Revisiting-Python/blob/main/Stock%20Tracker/cover.jpeg', width=40%><br>
   <sub>Image credit: <a href="https://appadvice.com/app/stock-alerts/371922186">appadvice.com</a></sub><br>
@@ -12,4 +12,7 @@ This is an app I am making for my dad. He is an ardent investor in companies but
   <li>Charts out the progress of the price for the last month #to-do</li>
   <li>If the difference between two consecutive closing prices is greater than a pre-defined threshold, gather all the news items about the stock in the last 7 days</li>
   <li>Display the headlines of each article</li>
+  <li>Allows you to select an article based on the headline</li>
   </ol>
+  
+  To-do: Still need to build a GUI around this apart from the #to-do items
